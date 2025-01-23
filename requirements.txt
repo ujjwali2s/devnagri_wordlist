@@ -1,0 +1,4 @@
+web3==6.5.0
+mnemonic==0.20
+rich==13.4.0
+requests==2.31.0
